@@ -6,7 +6,7 @@
 -  Costumo aprender pela internet e na faculdade. 💻
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloCastilhoMacedo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloCastilhoMacedo&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloCastilhoMacedo&layout=compact)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
