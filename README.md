@@ -2,7 +2,7 @@
 
 -  Não estou trabalhando, mas busco por estágios. 😁
 -  Sou aluno da faculdade UDF cursando ADS. Estou no terceiro semestre do meu curso. 📖
--  Estou atualmente aprendendo Php e Sql. 👾
+-  Estou atualmente aprendendo Python. 👾
 -  Costumo aprender pela internet e na faculdade. 💻
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloCastilhoMacedo&show_icons=true&theme=tokyonight)
