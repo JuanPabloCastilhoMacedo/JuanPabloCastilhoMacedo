@@ -19,7 +19,9 @@
   ##
   
 <div> 
- <a href="mailto:juanpablodev1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+ <a href="mailto:juanpablodev1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/juanpablocastilhomacedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br>
+[📧 juanpablodev1@gmail.com](mailto:juanpablodev1@gmail.com)
 
