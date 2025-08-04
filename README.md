@@ -1,9 +1,9 @@
 ## Olá, mundo!👋
 
 -  Não estou trabalhando, mas busco por estágios. 😁
--  Sou aluno da faculdade UDF cursando ADS. Estou no terceiro semestre do meu curso. 📖
+-  Sou aluno da faculdade UDF cursando ADS. Estou no quarto semestre do meu curso. 📖
 -  Estou atualmente aprendendo Python. 👾
--  Costumo aprender pela internet e na faculdade. 💻
+-  Costumo aprender pela internet, fazendo cursos com certificação e na faculdade. 💻
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloCastilhoMacedo&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloCastilhoMacedo&layout=compact)
@@ -22,6 +22,5 @@
  <a href="mailto:juanpablodev1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/juanpablocastilhomacedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
-[📧 juanpablodev1@gmail.com](mailto:juanpablodev1@gmail.com)
+  &nbsp;📧 juanpablodev1@gmail.com
 
