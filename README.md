@@ -1,6 +1,6 @@
 ## Olá, mundo!👋
 
--  Não estou trabalhando, mas busco por estágios. 😁
+-  Universitário em busca de estágio! 😁
 -  Sou aluno da faculdade UDF cursando ADS. Estou no quarto semestre do meu curso. 📖
 -  Estou atualmente aprendendo Python. 👾
 -  Costumo aprender pela internet, fazendo cursos com certificação e na faculdade. 💻
