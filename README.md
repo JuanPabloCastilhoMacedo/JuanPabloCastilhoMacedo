@@ -1,9 +1,9 @@
 ## Olá, mundo!👋
 
--  Universitário em busca de estágio! 😁
+-  Universitário com curiosidades em novas tecnologias! 😁
 -  Sou aluno da faculdade UDF cursando ADS. Estou no quarto semestre do meu curso. 📖
 -  Estou atualmente aprendendo Python. 👾
--  Costumo aprender pela internet, fazendo cursos com certificação e na faculdade. 💻
+-  Costumo aprender pela internet, fazendo cursos com certificações, assistindo video aulas no youtube e na faculdade desenvolvendo projetos acadêmicos. 💻
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloCastilhoMacedo&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloCastilhoMacedo&layout=compact)
