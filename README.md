@@ -1,4 +1,4 @@
-## 🚀 Desenvolvedor Back-end Júnior
+## 🚀 Desenvolvedor Júnior
 
 #### Sou Formado em ADS, tenho experiência em projetos acadêmicos. Sou proativo, curioso e estou em constante evolução, sempre aberto a novos desafios e tecnologias.
 
